@@ -48,6 +48,3 @@ and work patterns.
 
 ## Tools Used
 MySQL, MySQL Workbench
-```
-```
-5. Scroll down → Click "Commit changes"
